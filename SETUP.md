@@ -2,6 +2,10 @@
 
 This document covers how to install, configure, and run the Claude sub-agents that power the Legacy Migration POC. The system uses **Claude Code CLI** with custom agent definitions to generate PRDs and migrate legacy Java/Swing forms to .NET 9 + React 18 + PostgreSQL.
 
+## System Architecture
+
+![Sub-Agent Architecture Flow](SubAgent_Flow.png)
+
 ---
 
 ## Table of Contents
